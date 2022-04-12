@@ -7,6 +7,11 @@ com o objetivo de ter uma base para contrução de sites.
 ## Aprendizado / Implementações:
 
 ### Views
-- Estrutura das views com recursos BLADE
+- Estrutura das views com recursos BLADE:  
+@extends, @include,  @yield - @section/@endsection,  
 - View master com template bootstrap, incluindo  
-(css, style.css, js, scripts.js, icons, img).
+(css, style.css, js, scripts.js, icons, img).  
+  
+### Composição do Projeto
+- Inclusão Autenticação Breeze  
+- Inclusão pacote pt-BR
