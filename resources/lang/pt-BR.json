@@ -10,7 +10,7 @@
     "Forgot your password?": "Esqueceu sua senha?",
     "Already registered?": "Já registrado?",
     "Login": "Entrar",
-    "Register": "Registre-se",
+    "Register": "Enviar",
     "Home": "Principal",
     "Logout": "Sair",
     "Toggle navigation": "Alternar navegação",
@@ -74,5 +74,8 @@
     "Current Password": "Senha Atual",
     "New Password": "Nova Senha",
     "Log Out Other Browser Sessions": "Sair de outras sessões do navegador",
-    "Log Out": "Deslogar"
+    "Log Out": "Sair",
+    "Log in": "Entrar",
+    "Manage Account": "Gerenciar Conta",
+    "Whoops! Something went wrong.": "Ops! Algo deu errado."
 }
