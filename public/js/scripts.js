@@ -1,1 +1,1 @@
-alert('Bem-vindos à BaseSites');
+//alert('Bem-vindos à BaseSites');

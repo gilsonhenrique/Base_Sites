@@ -9,9 +9,11 @@ com o objetivo de ter uma base para contrução de sites.
 ### Views
 - Estrutura das views com recursos BLADE:  
 @extends, @include,  @yield - @section/@endsection,  
+@auth/@endauth, @guest/@endguest  
 - View master com template bootstrap, incluindo  
 (css, style.css, js, scripts.js, icons, img).  
+- Navbar com Login/Logout  
+- Dashboard c/ Bootstrap
   
 ### Composição do Projeto
-- Inclusão Autenticação Breeze  
-- Inclusão pacote pt-BR
+- Autenticação Breeze com pacote pt-BR  
