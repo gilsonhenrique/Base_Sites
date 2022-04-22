@@ -2,6 +2,15 @@ h1{
 	color: blue;
 }
 
+/* Conteúdo da Página */
+
 .container{
 	text-align: center;
+}
+
+
+/* Cabeçalho e Rodapé */
+
+.navbar, .card-footer{
+	margin: 10px;
 }
